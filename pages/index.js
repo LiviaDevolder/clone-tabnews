@@ -1,5 +1,5 @@
 function Home() {
-	return <h1>Ariadne eu amo você! Se você me ama, dá uma risadinha!</h1>;
+	return <h1>Αριάδνη, σ' αγαπώ πολύ, ζωή μου.</h1>;
 }
 
 export default Home;
