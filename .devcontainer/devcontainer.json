@@ -1,9 +1,0 @@
-{
-  "image": "mcr.microsoft.com",
-  "features": {
-    "ghcr.io/rails/devcontainer/features/bun:1": {
-      "version": "latest"
-    }
-  },
-  "postCreateCommand": "bun install"
-}
